@@ -1,4 +1,4 @@
-# Photography Perspective Composition: Towards Aesthetic Perspective Recommendation
+# [NeurIPS25] Photography Perspective Composition: Towards Aesthetic Perspective Recommendation
 
 <a href="https://arxiv.org/abs/2505.20655"><img src='https://img.shields.io/badge/arXiv-2505.20655-red?style=flat&logo=arXiv&logoColor=red' alt='arxiv'></a>&nbsp;
 <a href="https://vivocameraresearch.github.io/ppc/"><img src='https://img.shields.io/badge/Project-Page-Green' alt='GitHub'></a>&nbsp;
