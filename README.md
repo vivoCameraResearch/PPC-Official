@@ -304,10 +304,9 @@ Their contributions in open-source research, video generation, and model design 
 If you find our work useful for your research or applications, please cite our paper using the following BibTeX:
 
 ```bibtex
-@article{yao2025photography,
+@inproceedings{yaophotography,
   title={Photography Perspective Composition: Towards Aesthetic Perspective Recommendation},
   author={Yao, Lujian and Zheng, Siming and Yuan, Xinbin and Cai, Zhuoxuan and Wu, Pu and Chen, Jinwei and Li, Bo and Jiang, Peng-Tao},
-  journal={arXiv preprint arXiv:2505.20655},
-  year={2025}
+  booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems}
 }
 ```
